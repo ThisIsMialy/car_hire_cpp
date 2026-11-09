@@ -1,0 +1,9 @@
+MOTORBIKES: 11
+bike:make:model:price per day:engine size (CC):passanger seat:luggage space:registration number:colour:available:date available
+
+CARS: 11
+car:make:model:price per day:engine size (litres):number of seats:number of doors:registration number:colour:available:date available
+
+VANS: 11
+van:make:model:price per day:engine size (litres):number of seats:luggage space:registration number:colour:available:date available
+
